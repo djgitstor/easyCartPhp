@@ -17,7 +17,6 @@ shopping-site/
 ├── product.php         # Product details
 ├── cart.php            # Shopping Cart logic
 └── README.html         # This documentation
-    </pre>
 
     <h2>🛠️ Setup Instructions</h2>
     <ol>
