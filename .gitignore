@@ -1,0 +1,36 @@
+# --- Core Environment & Secrets ---
+# Never commit your database credentials or API keys
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+config.php
+php-error.log
+
+# --- Dependencies ---
+# Composer dependencies should be installed via 'composer install'
+/vendor/
+# If using frontend tools
+node_modules/
+npm-debug.log
+
+# --- Database ---
+# Don't track local SQL dumps or SQLite databases
+*.sqlite
+
+# --- OS & IDE Files ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# --- Storage & Logs ---
+# Standard locations for logs and temporary uploads
+/logs/
+/temp/
+/storage/*.key
+/public/storage
+/public/hot
