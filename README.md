@@ -8,15 +8,14 @@
 
 <h2>📂 Project Structure</h2>
 <pre>
-shopping-site/
-├── assets/             # CSS, JS, and Images
-├── config/             # Database connection (db.php)
-├── includes/           # Header and Footer components
-├── sql/                # MySQL Export file (shop_db.sql)
-├── index.php           # Home / Product Listing
-├── product.php         # Product details
-├── cart.php            # Shopping Cart logic
-└── README.html         # This documentation
+easycart/
+├── Admin/              # Admin panal
+├── CSS/                # CSS Files
+├── DB/                 # MySQL Export file (shop_db.sql)
+├── images/             # images
+├── img/                # icons
+├── partials/           # Header and Footer components , Database connection (db_connect.php)
+├── index.php           # Home
 </pre>
 
 <h2>🛠️ Setup Instructions</h2>
