@@ -1,0 +1,65 @@
+@media only screen and (max-width: 800px){
+    .bolls{
+        margin: auto;
+        width: fit-content;
+    }
+    .boll{
+        margin: 10px 10px;
+    }
+    .navlinks{
+        width: 400px;
+    }
+
+}
+@media only screen and (max-width: 700px){
+    .workplaceimg {
+        height: 400px;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .workplaceimg {
+        height: 250px;
+    }
+
+    .links {
+        display: none;
+    }
+
+    #navbar {
+        background: #041b3900;
+    }
+
+    #nav3dots {
+        display: block;
+        margin-left: auto;
+    }
+    .bolls{
+        margin: auto;
+    }
+    .boll{
+        margin: 10px 10px;
+        height: 60px;
+        width: 60px;
+    }
+    
+
+}
+@media only screen and (max-width: 450px){
+    .bars{
+        flex-direction: column;
+        align-items:center;
+    }
+    .sep_line{
+        width: 90%;
+        height: 1px;
+    }
+
+}
+@media only screen and (max-width: 350px){
+   #workplaceimg{
+    height: 252px;
+   }
+   .copyright{
+    font-size: 10px;
+   }
+}

@@ -1,0 +1,18 @@
+
+                    <select id="inputCity" class="form-select">
+                        <option selected>Choose...</option>
+                        <option value="Amritsar">Amritsar</option>
+                        <option value="Batala">Batala</option>
+                        <option value="Bathinda">Bathinda</option>
+                        <option value="Dinanagar">Dinanagar</option>
+                        <option value="Faridkot">Faridkot</option>
+                        <option value="Firozpur">Firozpur</option>
+                        <option value="Gurdaspur">Gurdaspur</option>
+                        <option value="Hoshiarpur">Hoshiarpur</option>
+                        <option value="Jalandhar">Jalandhar</option>
+                        <option value="Kapurthala">Kapurthala</option>
+                        <option value="Ludhiana">Ludhiana</option>
+                        <option value="Mukeriyan">Mukeriyan</option>
+                        <option value="Pathankot">Pathankot</option>
+                        <option>...</option>
+                    </select>
